@@ -38,7 +38,7 @@ Time spent: **7** hours spent in total
   - [x] Steps to recreate: Create a new media post and upload an image with the following filename format:
 
     ```
-    filename<img src=a onerror=alert(1)>.png
+    filename<img src=a onerror=alert(10)>.png
     ```
 
     When the attachment page is viewed, the injected code is executed.
